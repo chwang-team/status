@@ -1,7 +1,7 @@
-url: $SITE_1
+url: $SITE_3
 status: up
 code: 200
-responseTime: 500
-lastUpdated: 2024-06-07T23:13:22.822Z
+responseTime: 1311
+lastUpdated: 2024-06-07T23:13:25.081Z
 startTime: 2024-01-02T10:11:55.910Z
 generator: Upptime <https://github.com/upptime/upptime>
